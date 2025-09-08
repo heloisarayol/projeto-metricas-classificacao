@@ -1,6 +1,6 @@
 # Projeto: Métricas de Avaliação de Modelos de Classificação
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heloisarayol/projeto-metricas-classificacao/blob/main/CalculoDeMetricasDeAvaliacao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heloisarayol/projeto-metricas-classificacao/blob/main/CalculoDeMetricasDeAvaliação.ipynb)
 
 ## Descrição
 
@@ -11,7 +11,7 @@ O objetivo é demonstrar o entendimento sobre como cada métrica funciona a part
 
 ## Métricas e Visualizações Incluídas
 
-O notebook `CalculoDeMetricasDeAvaliacao.ipynb` contém a implementação e a análise dos seguintes itens:
+O notebook `CalculoDeMetricasDeAvaliação.ipynb` contém a implementação e a análise dos seguintes itens:
 
 * **Geração de Matriz de Confusão:** Criação de uma matriz 2x2 com valores aleatórios para VP, VN, FP e FN.
 * **Cálculo de Métricas:**
